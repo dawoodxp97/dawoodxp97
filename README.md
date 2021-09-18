@@ -71,7 +71,7 @@ A 24Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Web 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/skd-a9p6r)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/sk_dawood)
 [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/dawoodxp97)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://skd-portfolio.netlify.app)
 
 
 <a href="https://dev.to/dawoodxp97"><img height="50" src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png"></a>
