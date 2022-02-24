@@ -30,7 +30,6 @@ A 24Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Web 
 
 <div align="center">
   
-<img src="https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png" height="60" width="60">     
 <img src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png" height="60" width="60">
 <img src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png" height="60" width="60">
 <img src="https://cdn.iconscout.com/icon/free/png-64/javascript-2752148-2284965.png" height="60" width="60">
@@ -38,7 +37,8 @@ A 24Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Web 
 <img src="https://cdn.iconscout.com/icon/free/png-64/redux-3521674-2945118.png" height="60" width="60">
 <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
 <img src="https://cdn.iconscout.com/icon/free/png-64/mongodb-3629020-3030245.png" height="60" width="60">
-<img src="https://cdn.iconscout.com/icon/free/png-64/gatsby-3521442-2944886.png" height="60" width="60">
+  <img src="https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png" height="60" width="60">     
+
 
 <br>
 
